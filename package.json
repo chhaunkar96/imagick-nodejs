@@ -1,0 +1,24 @@
+{
+  "name": "imagick-nodejs",
+  "version": "1.0.0",
+  "description": "imagick cli wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhaunkar96/imagick-nodejs.git"
+  },
+  "keywords": [
+    "imagick-nodejs",
+    "imagick-wrapper",
+    "imagick"
+  ],
+  "author": "Kaushal chhaunkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chhaunkar96/imagick-nodejs/issues"
+  },
+  "homepage": "https://github.com/chhaunkar96/imagick-nodejs#readme"
+}
