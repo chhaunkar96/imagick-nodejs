@@ -1,5 +1,18 @@
 # imagick-nodejs
 Imagick wrapper nodejs
 
+Install imagick before use
 
-## DO NOT USE THIS. WORK IN PROGRESS
+## Installation
+
+`npm i imagick-nodejs`
+
+## Uses
+
+```
+  return new Imagick({
+    srcPath: fileLocalPath,
+    dstPath: `converts/${dstFileName}`,
+  }).convertSync();
+```
+
